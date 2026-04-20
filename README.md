@@ -117,6 +117,6 @@ Penjelasan lengkap mengenai:
 * Struktur folder
 * Demo penggunaan (sukses & error)
 
-🔗 **Link Video:** *[(Tambahkan link YouTube di sini)](https://youtu.be/2aYQ0GVykmY)*
+🔗 **Link Video:** *[(Link Youtube)](https://youtu.be/2aYQ0GVykmY)*
 
 ---
