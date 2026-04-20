@@ -1,0 +1,6 @@
+@Sistem_penyewaan_HostAddress = http://localhost:5244
+
+GET {{Sistem_penyewaan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
